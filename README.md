@@ -3,6 +3,8 @@
 - 🌱 No momento focando meus estudos em HTML, CSS e JavaScript
 - 📫 Você pode entrar em contato comigo por meio do meu email, igor.fernandes.ufs@gmail.com 
 
+##
+
 <div align="center">
   <a href="https://github.com/yngvarrr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yngvarrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
