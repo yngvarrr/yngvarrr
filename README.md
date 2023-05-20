@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Igor Fernandes
 - 👀 Tenho interesse em desenvolvimento web, mas consigo me dar bem em qualquer outra área 
-- 🌱 No momento focando meus estudos em HTML, CSS e JavaScript
+- 🌱 No momento focando meus estudos em React, Typescript e SQL
 - 📫 Você pode entrar em contato comigo por meio do meu email, igor.fernandes.ufs@gmail.com 
 
 ##
