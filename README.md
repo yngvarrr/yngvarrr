@@ -32,7 +32,4 @@
   <a href="https://www.linkedin.com/in/igor-fernandes-UFS" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/guinhofernandess_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://pin.it/4HNCF8h" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
-  
-   ![Snake animation](https://github.com/yngvarrr/yngvarrr/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
