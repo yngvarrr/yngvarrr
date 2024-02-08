@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Igor Fernandes
-- 👀 Tenho interesse em desenvolvimento web, mas consigo me dar bem em qualquer outra área 
-- 🌱 No momento focando meus estudos em React, Typescript e SQL
+- 👀 Tenho interesse em desenvolvimento web e mobile, mas consigo me dar bem em qualquer outra área 
+- 🌱 No momento focando meus estudos em Spring, Typescript e Kotlin
 - 📫 Você pode entrar em contato comigo por meio do meu email, igor.fernandes.ufs@gmail.com 
 
 ##
